@@ -43,12 +43,12 @@ The project follows the complete data analytics workflow — data acquisition, c
 │   ├── wdi_indicators_clean.csv   # Cleaned fact table (Country + Year + 9 indicators)
 │   └── country_lookup.csv         # Country dimension table (Region, Income Group, Region_Group)
 ├── notebooks/
-│   └── data_cleaning.ipynb        # Python cleaning script (Google Colab)
+│   └── Week_8_Capstone_Project.ipynb        # Python cleaning script (Google Colab)
 ├── dashboard/
-│   ├── capstone_dashboard.pbix    # Power BI dashboard file
+│   ├── Capstone_Project_AnalystLab_Africa.pbix    # Power BI dashboard file
 │   └── screenshots/               # Dashboard page screenshots
 ├── report/
-│   └── Capstone_Report.docx       # Final written report
+│   └── Capstone_Project_Report.docx       # Final written report
 └── README.md
 ```
 
